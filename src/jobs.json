@@ -83,20 +83,6 @@
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
       }
-    },
-    {
-      "id": "ead8",
-      "title": "Test job",
-      "type": "Part-Time",
-      "location": "Spain",
-      "description": "Awesome test",
-      "salary": "$50K - 60K",
-      "company": {
-        "name": "Best test company",
-        "description": "Perfect test place",
-        "contactEmail": "test@test.com",
-        "contactPhone": "666666666"
-      }
     }
   ]
 }
