@@ -20,4 +20,4 @@ In summary, this project provides a hands-on exploration of React fundamentals a
 
 ### Demo:
 
-![Project Demo](demo.gif)
+![Project Demo](images/demo.gif)
